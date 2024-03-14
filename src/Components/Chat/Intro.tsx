@@ -1,14 +1,14 @@
 const Intro = () => {
     return (
         <div className="transition-width relative flex h-full w-full flex-1 flex-grow flex-col items-stretch justify-center overflow-hidden">
-            <div className="text-center text-4xl font-bold text-brand ">Welcome to Open Assistant</div>
+            <div className="text-center text-4xl font-bold text-brand ">Welcome to AI Assistant</div>
             <div className="text-center text-lg text-gray-800 ">
                 <div className="mb-8">
-                    Discover the Power of Open Assistant powered by mistralai/Mixtral-8x7B-Instruct-v0.1 model
+                    Discover the Power of AI Assistant powered by mistralai/Mixtral-8x7B-Instruct-v0.1 model
                 </div>
             </div>
             <div className="text-center text-gray-500 ">
-                <div className="mb-2">Ready to embark on a conversation?</div>
+                <div className="mb-2">Ready to start a conversation?</div>
                 <div className="mb-2">
                     Add your <b>Huggingface API Key</b> in the settings
                 </div>
