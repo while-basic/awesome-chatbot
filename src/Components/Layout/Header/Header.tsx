@@ -23,7 +23,7 @@ const Header = () => {
                 </button>
                 <div className="flex text-lg font-bold">
                     <Image src="/logo.svg" alt="Logo" width={50} height={50} className="mr-2 fill-brand text-brand" />
-                    <span className="pt-2">Chatbot</span>
+                    <span className="pt-2">AI Assistant</span>
                 </div>
             </div>
             <div className="flex items-center gap-4 ">
